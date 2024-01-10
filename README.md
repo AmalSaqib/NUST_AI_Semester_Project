@@ -8,3 +8,7 @@ In this repository you will find:
 - THE JUPYTER NOTEBOOK with the code used
 - THE MODEL which is the final model used after hypertuning a CNN model
 - THE PROJECT ANALYSIS that elaborates the results
+
+You will also find the gui.py file which is used to create a simple GUI to show our results.
+
+You can find the dataset used at https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
